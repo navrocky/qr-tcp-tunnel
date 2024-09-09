@@ -1,0 +1,11 @@
+[requires]
+termcolor/2.1.0
+cli11/2.4.2
+ftxui/5.0.0
+qr-code-generator/1.8.0
+b64/2.0.0.1
+quirc/1.2
+
+[generators]
+CMakeDeps
+CMakeToolchain

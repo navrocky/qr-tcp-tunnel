@@ -1,0 +1,6 @@
+/dist
+/debug
+/release
+/dist
+/CMakeLists.txt.user
+/CMakeUserPresets.json
